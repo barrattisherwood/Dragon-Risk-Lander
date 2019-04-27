@@ -36,6 +36,14 @@ h2 {
     font-weight: 300;
 }
 
+h2.spacing-bottom {
+    margin-bottom: 35px;    
+}
+
+h2.spacing-top {
+    margin-top: 35px;    
+}
+
 .logo-container {
     width: 400px;
 }
